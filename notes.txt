@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 "Version 1" 
 "Version 2" 
 "Version 3" 
 "Login feature started" 
 Végső lépés1
 Végső lépés2
+=======
+Final feature
+>>>>>>> 9b440ff90ff2e5b724646990ca2d2b71c6f2f2b1
